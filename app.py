@@ -25,9 +25,9 @@ from pathlib import Path
 # Page setup
 st.set_page_config(page_title="AI Model Concentration", page_icon="🤖", layout="wide")
 
-# Project paths
+# File Path
 ROOT_DIR = Path(__file__).resolve().parent
-DATA_DIR = ROOT_DIR / "Data" / "processed"
+DATA_DIR = ROOT_DIR / "data" / "processed"
 
 STANFORD_TOTAL_FILE = (DATA_DIR / "stanford_notable_2014_2024.csv")
 STANFORD_2024_FILE = (DATA_DIR / "stanford_notable_2024.csv")
