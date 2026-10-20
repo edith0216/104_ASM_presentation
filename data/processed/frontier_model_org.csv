@@ -1,0 +1,91 @@
+Model,Publication date,Year,Organization,Organisation,N_orgs,Fractional_weight
+GPT-4o (Nov 2024),2024-11-20,2024,OpenAI,OpenAI,1,1.0
+GLM-4-Plus,2024-08-29,2024,Z.ai (Zhipu AI),Zhipu AI,1,1.0
+Grok-2,2024-08-13,2024,xAI,xAI,1,1.0
+GPT-4o (Aug 2024),2024-08-06,2024,OpenAI,OpenAI,1,1.0
+Llama 3.1-405B,2024-07-23,2024,Meta AI,Meta,1,1.0
+Claude 3.5 Sonnet,2024-06-20,2024,Anthropic,Anthropic,1,1.0
+Nemotron-4 340B,2024-06-14,2024,Nvidia,Nvidia,1,1.0
+GPT-4o,2024-05-13,2024,OpenAI,OpenAI,1,1.0
+GPT-4 Turbo (Apr 2024),2024-04-09,2024,OpenAI,OpenAI,1,1.0
+Claude 3 Opus,2024-03-04,2024,Anthropic,Anthropic,1,1.0
+Gemini 1.5 Pro,2024-02-15,2024,Google DeepMind,Google,1,1.0
+GLM-4 (0116),2024-01-17,2024,Z.ai (Zhipu AI),Zhipu AI,1,1.0
+Gemini 1.0 Ultra,2023-12-06,2023,Google DeepMind,Google,1,1.0
+Inflection-2,2023-11-22,2023,Inflection AI,Inflection AI,1,1.0
+GPT-4 Turbo (Nov 2023),2023-11-06,2023,OpenAI,OpenAI,1,1.0
+Amazon Titan,2023-09-28,2023,Amazon,Amazon,1,1.0
+Falcon-180B,2023-09-06,2023,Technology Innovation Institute,Technology Innovation Institute,1,1.0
+Claude 2,2023-07-11,2023,Anthropic,Anthropic,1,1.0
+GPT-4 (Jun 2023),2023-06-13,2023,OpenAI,OpenAI,1,1.0
+PaLM 2,2023-05-10,2023,Google,Google,1,1.0
+SenseChat,2023-04-10,2023,SenseTime,SenseTime,1,1.0
+GPT-4 (Mar 2023),2023-03-15,2023,OpenAI,OpenAI,1,1.0
+U-PaLM (540B),2022-10-20,2022,Google,Google,1,1.0
+Flan-PaLM 540B,2022-10-20,2022,Google,Google,1,1.0
+Minerva (540B),2022-06-29,2022,Google,Google,1,1.0
+PaLM (540B),2022-04-04,2022,Google Research,Google,1,1.0
+GPT-3.5 (davinci-002),2022-03-15,2022,OpenAI,OpenAI,1,1.0
+ERNIE 3.0 Titan,2021-12-23,2021,"Baidu,Peng Cheng Laboratory",Baidu,2,0.5
+ERNIE 3.0 Titan,2021-12-23,2021,"Baidu,Peng Cheng Laboratory",Peng Cheng Laboratory,2,0.5
+EXAONE 1.0,2021-12-14,2021,LG,LG,1,1.0
+Gopher (280B),2021-12-08,2021,DeepMind,Google,1,1.0
+Yuan 1.0,2021-10-12,2021,Inspur,Inspur,1,1.0
+Megatron-Turing NLG 530B,2021-10-11,2021,"Microsoft,Nvidia",Microsoft,2,0.5
+Megatron-Turing NLG 530B,2021-10-11,2021,"Microsoft,Nvidia",Nvidia,2,0.5
+HyperCLOVA 204B,2021-09-10,2021,NAVER,NAVER,1,1.0
+FLAN 137B,2021-09-03,2021,Google Research,Google,1,1.0
+Jurassic-1-Jumbo,2021-08-11,2021,AI21 Labs,AI21 Labs,1,1.0
+Wu Dao 2.0,2021-05-31,2021,Beijing Academy of Artificial Intelligence / BAAI,Beijing Academy of Artificial Intelligence / BAAI,1,1.0
+Switch,2021-01-11,2021,Google,Google,1,1.0
+mT5-XXL,2020-10-20,2020,"Google,Google Research",Google,1,1.0
+GShard (dense),2020-06-30,2020,Google,Google,1,1.0
+iGPT-XL,2020-06-17,2020,OpenAI,OpenAI,1,1.0
+GPT-3 175B (davinci),2020-05-28,2020,OpenAI,OpenAI,1,1.0
+Meena,2020-01-28,2020,Google Brain,Google,1,1.0
+OpenAI Five,2019-12-13,2019,OpenAI,OpenAI,1,1.0
+Noisy Student (L2),2019-11-11,2019,"Carnegie Mellon University (CMU),Google",Carnegie Mellon University,2,0.5
+Noisy Student (L2),2019-11-11,2019,"Carnegie Mellon University (CMU),Google",Google,2,0.5
+XLM-RoBERTa,2019-11-05,2019,Facebook AI,Meta,1,1.0
+AlphaStar,2019-10-30,2019,DeepMind,Google,1,1.0
+T5-3B,2019-10-23,2019,Google,Google,1,1.0
+T5-11B,2019-10-23,2019,Google,Google,1,1.0
+Megatron-BERT,2019-09-17,2019,Nvidia,Nvidia,1,1.0
+Megatron-LM (8.3B),2019-09-17,2019,Nvidia,Nvidia,1,1.0
+RoBERTa Large,2019-07-01,2019,"Facebook,University of Washington",Meta,2,0.5
+RoBERTa Large,2019-07-01,2019,"Facebook,University of Washington",University of Washington,2,0.5
+XLNet,2019-06-01,2019,"Carnegie Mellon University (CMU),Google Brain",Carnegie Mellon University,2,0.5
+XLNet,2019-06-01,2019,"Carnegie Mellon University (CMU),Google Brain",Google,2,0.5
+Grover-Mega,2019-05-29,2019,University of Washington,University of Washington,1,1.0
+GPT-2 (774M),2019-02-14,2019,OpenAI,OpenAI,1,1.0
+GPT-2 (355M),2019-02-14,2019,OpenAI,OpenAI,1,1.0
+BigGAN-deep 512x512,2018-09-28,2018,"Heriot-Watt University,DeepMind",Heriot-Watt University,2,0.5
+BigGAN-deep 512x512,2018-09-28,2018,"Heriot-Watt University,DeepMind",Google,2,0.5
+ResNeXt-101 32x48d,2018-05-02,2018,Facebook,Meta,1,1.0
+AlphaGo Zero,2017-10-18,2017,DeepMind,Google,1,1.0
+OpenAI TI7 DOTA 1v1,2017-08-11,2017,OpenAI,OpenAI,1,1.0
+JFT,2017-07-10,2017,"Google Research,Carnegie Mellon University (CMU)",Google,2,0.5
+JFT,2017-07-10,2017,"Google Research,Carnegie Mellon University (CMU)",Carnegie Mellon University,2,0.5
+NASv3 (CIFAR-10),2016-11-05,2016,Google Brain,Google,1,1.0
+Xception,2016-10-07,2016,Google,Google,1,1.0
+GNMT,2016-09-26,2016,Google,Google,1,1.0
+BIG LSTM+CNN INPUTS,2016-02-11,2016,Google Brain,Google,1,1.0
+AlphaGo Lee,2016-01-27,2016,DeepMind,Google,1,1.0
+DeepSpeech2 (English),2015-12-08,2015,Baidu Research - Silicon Valley AI Lab,Baidu Research - Silicon Valley AI Lab,1,1.0
+Inception v3,2015-12-02,2015,"Google,University College London (UCL)",Google,2,0.5
+Inception v3,2015-12-02,2015,"Google,University College London (UCL)",University College London,2,0.5
+SAF R-CNN,2015-10-28,2015,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",Beijing Institute of Technology,4,0.25
+SAF R-CNN,2015-10-28,2015,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",Sun Yat-sen University,4,0.25
+SAF R-CNN,2015-10-28,2015,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",Panasonic R&D,4,0.25
+SAF R-CNN,2015-10-28,2015,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",National University of Singapore,4,0.25
+AlphaGo Fan,2015-10-01,2015,DeepMind,Google,1,1.0
+"MSRA (C, PReLU)",2015-02-06,2015,Microsoft Research,Microsoft,1,1.0
+SNM-skip,2014-12-03,2014,Google,Google,1,1.0
+Seq2Seq LSTM,2014-09-10,2014,Google,Google,1,1.0
+VGG16,2014-09-04,2014,University of Oxford,University of Oxford,1,1.0
+VGG19,2014-09-04,2014,University of Oxford,University of Oxford,1,1.0
+RNNsearch-50*,2014-09-01,2014,"Jacobs University Bremen,University of Montreal / Université de Montréal",Jacobs University Bremen,2,0.5
+RNNsearch-50*,2014-09-01,2014,"Jacobs University Bremen,University of Montreal / Université de Montréal",University of Montreal / Université de Montréal,2,0.5
+SPPNet,2014-06-18,2014,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)",Microsoft,3,0.3333333333333333
+SPPNet,2014-06-18,2014,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)",Xi’an Jiaotong University,3,0.3333333333333333
+SPPNet,2014-06-18,2014,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)",University of Science and Technology of China (USTC),3,0.3333333333333333
